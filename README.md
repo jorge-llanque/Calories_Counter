@@ -1,5 +1,7 @@
 This Project it's a sample to use Javascript for programming.
 
+![my_image](C:\Users\Jorgito\Pictures\calories_counter.PNG)
+
 ## LOOK AT THE DEMO
  The app was upload in github-page, so you can visualize in this url (www.anything.com)
 
