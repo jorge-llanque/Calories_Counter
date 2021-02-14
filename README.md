@@ -1,24 +1,22 @@
-This Project it's a sample to use Javascript for programming.
+# CALORIES COUNTER
+This Project is a sample how to use Javascript for a basic development. [Look at here](https://jorge-llanque.github.io/Calories_Counter/)
 
-![alt text](/images/calories-counter.png)
-## LOOK AT THE DEMO
- The app was upload in github-page, so you can visualize in this url (www.anything.com)
+## Getting Started
+This app is a calculator of food. You can put a food and add its amount of proteins, carbs and calories. The app auto sum all data
+and show you the total amounts.
 
-## TECHNOLOGIES FOR DEVELOPMENT
- In general I'm using javascript for the development. But if you want more specification I'm using: 
-    - Javascript
-    - Jquery
-    - CSS3
-    - HTML5
-    - Algorithms
-    - Functional programming
-    - GitHub for repository
-    - GitHub Page for the deploy
-    - Git for management all process and history
+![](/images/calories-counter.png).
 
-## LICENSE
-This project is open source and don't need a license.
+## Deployment
+ The app was upload on github-page, you can visit the app [here](https://jorge-llanque.github.io/Calories_Counter/)
+
+## TECHNOLOGIES AND TOOLS
+ In general I'm using javascript for the development. But for more specification I'm using:
+ * Javascript
+ * Jquery
+ * CSS3
+ * HTML5
+ * Git
+
 ## AUTHOR
-Email: georgellanque@gmail.com
-GitHub: github.com/jorge-llanque
-Linkedin: linkedin.com/jorge-llanque
+* **Jorge LLanque** - *JS Developer* - [LinkedIn](https://www.linkedin.com/in/jorgellanque)
