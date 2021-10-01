@@ -18,5 +18,5 @@ and show you the total amounts.
  * HTML5
  * Git
 
-## AUTHOR
+## DEVELOPER
 * **Jorge LLanque** - *JS Developer* - [LinkedIn](https://www.linkedin.com/in/jorgellanque)
